@@ -18,7 +18,7 @@
 
 <hr> <!-- Горизонтальная линия -->
 
-<h3 style="font-weight: bold;"><p>My Tech Stack:</p></h3>
+<h3 style="font-weight: bold;"><p></p>Мой технический стек:</p></h3>
 <p align="center">
   <img src="https://camo.githubusercontent.com/a1b2dac5667822ee0d98ae6d799da61987fd1658dfeb4d2ca6e3c99b1535ebd8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534" height="32" alt="Python">
   <img src="https://camo.githubusercontent.com/7907e6d6541d9431578b770cbdbc91638974e777cdc53a707eea88cbb03a3546/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c2d2d53747564696f2d2d436f64652d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" height="32" alt="Visual Studio Code">
@@ -30,7 +30,7 @@
 
 <hr> <!-- Горизонтальная линия -->
 
-<h3><p>Statistics:</p></h3>
+<h3><p>Статистика:</p></h3>
 <p style="font-size: 16px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PY079&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PY079&theme=dark&hide_border=false" alt="GitHub Streak">
