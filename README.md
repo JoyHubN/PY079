@@ -2,18 +2,18 @@
 
 <hr> <!-- Горизонтальная линия -->
 <h></h>
-<h3 align="center">I am a programmer, but still in search of myself)</h3>
+<h3 align="center"Я программист, но все еще в поиске себя)</h3>
 
-<p style="font-size: 16px;">Greetings! I'm PY079, and I've been learning Python for 4 years. During this time, I have overcome many challenges, and I currently consider myself somewhere between a beginner and an experienced developer. I have worked on several interesting projects.</p>
+<p style="font-size: 16px;">Приветствую! Меня зовут PY079, и я изучаю Python уже 4 года. За это время я преодолел множество трудностей и в настоящее время считаю себя где-то между junior и middle. Я работал над несколькими интересными проектами.</p>
 
 <hr> <!-- Горизонтальная линия -->
 
-<h3 style="font-weight: bold;"><p>👨‍💻 My skills include:</p></h3>
+<h3 style="font-weight: bold;"><p>👨‍💻 Мои навыки:</p></h3>
 <ul>
-  <li>Python development</li>
-  <li>Working with databases</li>
-  <li>Some experience in web scraping</li>
-  <li>Worked with VKontakte and Telegram APIs</li>
+  <li>Разработка на Python</li>
+  <li>Работа с базами данных</li>
+  <li>Некоторый опыт в парсинге</li>
+  <li>Работал с API ВКонтакте и Telegram</li>
 </ul>
 
 <hr> <!-- Горизонтальная линия -->
@@ -26,7 +26,7 @@
 
 <hr> <!-- Горизонтальная линия -->
 
-<h3 style="font-size: 16px;">I am constantly striving for self-improvement and learning new technologies and tools. I enjoy solving complex problems and bringing my ideas to life through code.</h3>
+<h3 style="font-size: 16px;">Я постоянно стремлюсь к самосовершенствованию и изучению новых технологий и инструментов. Мне нрравится воплощать свои идеи в жизнь с помощью кода и помогать своими проектами людям.</h3>
 
 <hr> <!-- Горизонтальная линия -->
 
@@ -39,7 +39,7 @@
 
 <hr> <!-- Горизонтальная линия -->
 
-<p style="font-size: 16px;">If you're interested in learning more about me or connecting, I would be glad to see you on my social media platforms:</p>
+<p style="font-size: 16px;">Если вам интересно узнать больше обо мне или пообщаться, я был бы рад видеть вас на моих платформах социальных сетей:</p>
 
 <p align="center">
   <a href="https://vk.com/JKPyGtH" target="_blank"><img src="https://img.shields.io/badge/VK-3670A0?style=for-the-badge&logo=vk&logoColor=ffffff&labelColor=0E57FF" height="32" alt="VK"></a> 
@@ -48,4 +48,4 @@
 
 <hr> <!-- Горизонтальная линия -->
 
-<h3 style="font-size: 16px;">Let's make the world a better place through code! 🌟</h3>
+<h3 style="font-size: 16px;">Давайте сделаем мир лучше с помощью кода! 🌟</h3>
