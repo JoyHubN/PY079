@@ -1,8 +1,8 @@
-<styles>
+<style>
 .center{
   text-align: center;
   }
-</styles>
+</style>
 <h1 class="center">Hello! I'm <a href="https://github.com/PY079" target="_blank">PY079</a></h1>
 
 <hr> <!-- Горизонтальная линия -->
