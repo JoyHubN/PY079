@@ -1,12 +1,6 @@
-<style>
-.center{
-  text-align: center;
-  }
-</style>
-<h1 class="center">Hello! I'm <a href="https://github.com/PY079" target="_blank">PY079</a></h1>
+<h1 align="center">Hello! I'm <a href="https://github.com/PY079" target="_blank">PY079</a></h1>
 
 <hr> <!-- Горизонтальная линия -->
-<h></h>
 <h3 align="center"Я программист, но все еще в поиске себя)</h3>
 
 <p style="font-size: 16px;">Приветствую! Меня зовут PY079, и я изучаю Python уже 4 года. В настоящее время считаю себя где-то между junior и middle. Я работал над несколькими интересными проектами.</p>
